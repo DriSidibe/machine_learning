@@ -1,4 +1,4 @@
-#!/home/drissa/Documents/deep_learning/trainning/env/bin/python3
+#!/home/drissa/Documents/machine_learning/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
